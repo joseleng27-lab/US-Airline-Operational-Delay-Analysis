@@ -1,0 +1,5 @@
+SELECT *
+FROM t_ontime_reporting
+WHERE DEP_DELAY > 1000
+OR ARR_DELAY > 1000
+LIMIT 20;
