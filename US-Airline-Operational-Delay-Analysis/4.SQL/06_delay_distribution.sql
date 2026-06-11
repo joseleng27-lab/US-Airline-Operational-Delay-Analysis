@@ -1,4 +1,0 @@
-SELECT
-    ARR_DELAY
-FROM t_ontime_reporting
-WHERE ARR_DELAY BETWEEN -100 AND 300;
