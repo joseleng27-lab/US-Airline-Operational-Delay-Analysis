@@ -1,6 +1,9 @@
 # U.S. Airline Operational Delay Analysis
 
-![Dashboard](./2.Dashboard/Tableau%20Dashboard.png)
+[![Dashboard](US-Airline-Operational-Delay-Analysis/2.Dashboard/Tableau%20Dashboard.png)](https://public.tableau.com/app/profile/jose.ramirez1950)
+### Interactive Dashboard
+
+🔗 [View Tableau Dashboard](TU_LINK_DE_TABLEAU)
 
 ## Overview
 
