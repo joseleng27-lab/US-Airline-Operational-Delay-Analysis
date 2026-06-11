@@ -1,5 +1,7 @@
 # U.S. Airline Operational Delay Analysis
 
+![Dashboard](./2.Dashboard/Tableau%20Dashboard.png)
+
 ## Overview
 
 This project analyzes operational delays across major U.S. airlines using January 2024 DOT On-Time Performance data.
